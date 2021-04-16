@@ -179,8 +179,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="746" />
-    <option name="y" value="22" />
+    <option name="x" value="745" />
+    <option name="y" value="21" />
     <option name="width" value="1485" />
     <option name="height" value="795" />
   </component>
@@ -379,7 +379,7 @@
       <workItem from="1617942061050" duration="13077000" />
       <workItem from="1617963122241" duration="1950000" />
       <workItem from="1617965202782" duration="1365000" />
-      <workItem from="1617966614562" duration="3472000" />
+      <workItem from="1617966614562" duration="4301000" />
     </task>
     <task id="LOCAL-00001" summary="environment">
       <created>1617964694058</created>
@@ -413,12 +413,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64168000" />
+    <option name="totallyTimeSpent" value="64997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10805369" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10805369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -432,7 +432,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24362606" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24362606" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
