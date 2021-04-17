@@ -30,6 +30,8 @@ SECRET_KEY = '05aqflf@^-qnux%tl&k1^2q+5e7xn0j)51y0@vir_l#4n-7-7)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
+CORS_ORIGIN_ALLOW_ALL = True
+
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://localhost:5000',
