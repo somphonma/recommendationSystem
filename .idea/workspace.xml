@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/recommendationSystem/settings.py" line="32" />
+    <bookmark url="file://$PROJECT_DIR$/recommendationSystem/settings.py" line="34" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="710837bf-562c-4876-8e90-14660713cf9e" name="Default Changelist" comment="" />
+    <list default="true" id="710837bf-562c-4876-8e90-14660713cf9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/recommendationSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recommendationSystem/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recommendationSystem/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="214">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#321#330#0" expanded="true" />
               </folding>
@@ -181,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="745" />
     <option name="y" value="20" />
     <option name="width" value="1485" />
@@ -384,7 +386,7 @@
       <workItem from="1617965202782" duration="1365000" />
       <workItem from="1617966614562" duration="4301000" />
       <workItem from="1618570992958" duration="1978000" />
-      <workItem from="1618653998116" duration="1487000" />
+      <workItem from="1618653998116" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="environment">
       <created>1617964694058</created>
@@ -418,11 +420,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68462000" />
+    <option name="totallyTimeSpent" value="68759000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110738255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -583,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recommendationSystem/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="214">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#321#330#0" expanded="true" />
           </folding>
